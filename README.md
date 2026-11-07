@@ -7,6 +7,7 @@ The project simulates baccarat outcomes, manages a players bankroll, and records
 The project was developed to practice Python fundamentals, file handling, and integrating external APIs into an interactive application.
 
 How It Works:
+
 -The user launches the program and enters an initial virtual bankroll.
 
 -The user selects a wager amount and chooses Player or Banker.
