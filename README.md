@@ -8,9 +8,15 @@ The project was developed to practice Python fundamentals, file handling, and in
 
 How It Works:
 -The user launches the program and enters an initial virtual bankroll.
+
 -The user selects a wager amount and chooses Player or Banker.
+
 -The program reads historical outcomes stored in Bacarrat_Results.txt.
+
 -The historical data is submitted to the OpenAI API for analysis.
+
 -The LLM generates a prediction, which is displayed before the simulated hand.
+
 -Randomized Player and Banker scores determine the actual result.
+
 -The application updates the player's bankroll and records the outcome for future analysis.
